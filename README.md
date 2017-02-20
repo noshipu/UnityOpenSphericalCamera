@@ -1,6 +1,7 @@
 # UnityOpenSphericalCamera
-Support OSC API v1.0 on Unity
-Take a picture and Load texture.
+
+Support OSC API v1.0 on Unity.
+Take a picture and Load the texture.
 
 ![Alt Text](http://img.f.hatena.ne.jp/images/fotolife/n/noshipu/20170221/20170221035242.png)
 
@@ -12,7 +13,7 @@ Gear360:192.168.107.1 / Bublcam:192.168.0.100 / RICOH THETA S or SC:192.168.1.1
 4. Call OSCController.ExecTakePictureAndLoadImage()
 5. You can take a picture and load the image texture.
 
-Show sample script
+Sample script is here!
 https://github.com/noshipu/UnityOpenSphericalCamera/blob/master/Assets/UnityOpenSphericalCamera/_Demo/Scripts/TakePictureManagerSample.cs
 
 ## Third party
